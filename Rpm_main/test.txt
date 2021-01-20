@@ -1,0 +1,8 @@
+a. Issue Heading: Coordinates pattern Mismatch
+b. Issue Description: Coordinates pattern is not as expected
+c. Expected Behaviour: Coordinates pattern should be 'xxx.xxxxxx°' 
+
+a. Issue Heading: Date of Joining Mismatch
+b. Issue Description: Date of Joining is not as expected
+c. Expected Behaviour: Date of Joining should be 04-01-2018 but displayed as Jun 4, 2018
+
